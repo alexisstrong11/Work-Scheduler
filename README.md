@@ -1,7 +1,7 @@
 # **Work-Scheduler**
 
 ## **Description**
-This project allowed me to use my knowledge of HTML, CSS and JavaScript and API's to create a workday calendar that allows users to block off, track and save daily events between 9:00 AM and 5:00 PM. 
+This project allowed me to use my knowledge of HTML, CSS and JavaScript to create a workday calendar that allows users to block off, track and save daily events between 9:00 AM and 5:00 PM. 
 
 - - - -
 ## **Table of Contents**
@@ -13,6 +13,8 @@ This project allowed me to use my knowledge of HTML, CSS and JavaScript and API'
 - - - -
 ## **Usage**
 To access and use my project, click the "Work Scheduler" link shown in the [Website Preview](#website-preview)<a name="website_preview"></a> section below. Keep track of the current day and time at the top of the website. Navigate the webpage by adding any paticular event to the appropriate time slot on the calendar. Users can then save and store the event in their local storage for later use.
+
+The calendar is also color coded to indicate whether the event is in the past (grey), present (red), or future (green). 
 - - - -
 ## **Website Preview**
 [Work Scheduler](https://alexisstrong11.github.io/Work-Scheduler/)
