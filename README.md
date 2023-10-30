@@ -8,27 +8,18 @@ This project allowed me to use my knowledge of HTML, CSS and JavaScript and API'
 - [Usage](#usage)
 - [Website Preview](#website-preview)
 - [Credits](#credits)
-    - [Markdown Reference](#markdown-reference)
-    - [README Guide](#readme-guide)
 - [License](#license)
 - [How to Contribute](#how-to-contribute)
 - - - -
 ## **Usage**
-To access and use my project, click the "Work Scheduler" link shown in the [Website Preview](#website-preview)<a name="website_preview"></a> section below. Navigate the webpage by adding any paticular event to the appropriate time slot. Use the delete button 
+To access and use my project, click the "Work Scheduler" link shown in the [Website Preview](#website-preview)<a name="website_preview"></a> section below. Keep track of the current day and time at the top of the website. Navigate the webpage by adding any paticular event to the appropriate time slot on the calendar. Users can then save and store the event in their local storage for later use.
 - - - -
 ## **Website Preview**
 [Work Scheduler](https://alexisstrong11.github.io/Work-Scheduler/)
-![People at table with glasses of water, looking at scattered papers](./assets/images/Homepage.png "homepage")
+![Calendar homepage](./Assets/calendar.png "homepage")
 - - - - 
 ## **Credits**
-NOTE: *I received help from the instructor and tutors to assist with my project.*
-
-### Markdown Reference
-[Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md/ "Markdown Cheatsheet")
-![Markdown-cheatsheet Github repository homepage](./assets/images/Markdown%20Cheatsheet.png "Markdown Cheatsheet")
-### README Guide
-[Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/ "Professional README Guide")
-![Professional README guide homepage](./assets/images/Readme%20Reference.png "Readme Reference")
+NOTE: *I received help from the instructors and tutors to assist with my project.*
 
 - - - - 
 ## **License**
