@@ -18,7 +18,7 @@ The calendar is also color coded to indicate whether the event is in the past (g
 - - - -
 ## **Website Preview**
 [Work Scheduler](https://alexisstrong11.github.io/Work-Scheduler/)
-![Calendar homepage](./Assets/calendar.png "homepage")
+![Calendar homepage](./Assets/calendar2.png "homepage")
 - - - - 
 ## **Credits**
 NOTE: *I received help from the instructors and tutors to assist with my project.*

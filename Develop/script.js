@@ -1,8 +1,9 @@
-//Variables to describe current hour and day
+//Display current hour and day
 var currentHour = dayjs().format("H");
 var currentDay = dayjs().format("dddd, MMM D, YYYY");
 currentHour = Number(currentHour);
 $("#currentDay").text(currentDay);
+
 
 
 //Function when the page is started or refreshed
@@ -27,17 +28,18 @@ function init() {
   }
 }
 
-//Function to save the user input into localStorage
+//Save data to localStorage
 function saveEvent(event) {
   var parentId = event.target.parentElement.id;
   var textArea = event.target.previousElementSibling;
   localStorage.setItem(parentId, textArea.value);
 }
 
-//Event listener
+
+
 $(function () {
   $(".btn").on("click", saveEvent);
 });
 
-//Run the initialize function
+
 init();
